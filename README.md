@@ -12,6 +12,3 @@
 - Scatter Chart
 - Axis (XAxis and YAxis)
 
-## License
-
-MIT © [Dang Van Thanh](http://dangthanh.org)
